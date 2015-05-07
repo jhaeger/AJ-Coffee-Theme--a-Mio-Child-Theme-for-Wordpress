@@ -1,0 +1,186 @@
+#logo {
+  margin-bottom:3px;
+  margin-left:30px;
+  margin-top:15px;
+  min-height:50px;
+  }
+nav#main-nav {
+margin-top:0px;
+}
+div.header-meta {
+box-shadow:0 -1px 7px;
+background-color:#ffffff;
+border: 1px solid #cccccc;
+}
+div.entry-summary, div.entry-utility, div.commentmetadata, div.comment-body div.entry-content {
+  color:#121212;
+  }
+  .entry-content {
+  color:#121212;
+  }
+p  a {color:#8f0000;}
+
+a {color:#8f0000;}
+
+#header_cart a:link, #account a:link, #header_cart a:visited, #account a:visited {color:#121212;}
+#header_cart a:hover, #account a:hover, #header_cart a:active, #account a:active {color:#ffffff;}
+
+#container.no-sidebars #content { border:none;}
+
+.page .entry-content .default_product_display .wpsc_description p, .paged .entry-content .default_product_display .wpsc_description p { color:#121212;}
+
+.category .wp-post-image, .search-results .wp-post-image {
+  border:2px inset #CCCCCC;
+  border-bottom-left-radius:0;
+  border-bottom-right-radius:0;
+  border-top-left-radius:0;
+  border-top-right-radius:0;
+  display:block;
+  float:left;
+  margin:5px 10px 10px 5px;
+  }
+  .single-post .wp-post-image {
+  border:2px inset #CCCCCC;
+  border-bottom-left-radius:0;
+  border-bottom-right-radius:0;
+  border-top-left-radius:0;
+  border-top-right-radius:0;
+  display:block;
+  margin:2px 0 10px 2px;
+}
+  
+.entry-utility a {color:#8f0000;}
+nav.navigation_group div.nav-previous a {color:#ffffff;}
+
+div.entry-summary a, div.entry-utility a, div.commentmetadata a, div.comment-body div.entry-content a {
+  color:#8f0000;
+  }
+  
+nav#main-nav li ul.sub-menu li a:hover, nav#main-nav li ul.sub-menu li a:active {color:#8f0000;}
+
+nav#main-nav li ul.sub-menu li a:hover, nav#main-nav li ul.sub-menu li a:active {color:#8f0000;}
+nav#main-nav ul ul li a:active {color:#8f0000;}
+
+  .page .entry-content ul li, .page .entry-content ol li, #login_form p, .wpsc_loading_animation {
+  color:#121212;
+}
+.post .entry-content p {
+  color:#121212;
+}
+.page .entry-content p a{color:#8f0000;}
+.post .entry-content a {color:#8f0000;}
+.post .entry-content a:hover {color:#6f0000;}
+
+.archive .post a:link, .category .post a:link, .author .post a:link, .single .post a:link, .search .post a:link, .archive .post a:visited, .category .post a:visited, .author .post a:visited, .single .post a:visited, .search .post a:visited, .page-title a:link, .page-title a:visited, .commentlist li a:link, .commentlist li a:visited {
+  color:#8f0000;
+}
+
+.single-post .related-post li {list-style-type:none;}
+p.logged-in-as, #respond p {color:#121212;}
+
+#sidebar-right.sidebar .widget-wrapper h3.widget-title {color:#ffffff;}
+h1, h2, h3, h4, h5, h6{color:#121212;}
+#content_container h1.entry-title, .category #content_container h1.page-title {
+  color:#121212;
+}
+
+.footer_blog p a {color:#8f0000;text-shadow:1px 1px 1px #121212;}
+
+.home .product_meta, .product_description p {color:#121212;}
+.idc-columns .idc-column,.idc-comments .idc-message {color:#121212;}
+.idc-comments .idc-message a {color:#38A4CC;}
+.idc-comments .idc-message a:hover {color:#666666;}
+.idc-new_subscribe {color:#121212;}
+.idc-r {text-shadow:1px 1px 1px #121212;}
+div#rotator {background-color:#222222;
+  font-size:15px;
+  height:332px;
+  text-shadow:#666666 -1px -1px 2px;
+  width:550px;
+  border:1px solid #bbb;
+  box-shadow:1px 2px 6px #333;}
+div#rotator p#caption {color:#ffffff;margin-left:13px;}
+div#rotator p#caption:before {content:"Delicious Notes: ";color:#cf0000;text-shadow:0px -1px 0px #aaa;text-decoration:bold;}
+div#newsletter {background-color: rgb(245, 245, 220);}
+ div.grid_product_info a.more_details {display:none;}
+ .product_grid_display .grid_product_info {margin-bottom:none;}
+ .product_grid_display .product_grid_item {
+  border:0px solid #CCCCCC;
+  display:inline-block;
+  margin:0 4px 40px;
+  padding:10px;
+  position:relative;
+  text-align:center;
+  vertical-align:top;
+  width:132px;
+  box-shadow:0px 2px 6px #666;
+}
+.product_grid_display h2.prodtitle {text-align:center;}
+.product_grid_display h2.prodtitle a:link, .product_grid_display h2.prodtitle a:visited {color:#666666;}
+.product_grid_display h2.prodtitle a:hover, .product_grid_display h2.prodtitle a:active {color:#8f0000;}
+.additional_description a{color:#8f0000;}
+.additional_description a:hover {color:#6f0000;}
+.progress_bar {
+  background-attachment:scroll;
+  background-color:transparent;
+  background-image:url(https://www.ajcoffeeco.com/wp-content/themes/mio-child/skins/images/skin2/checkout_bar.png);
+  background-position:0 0;
+  background-repeat:no-repeat no-repeat;
+  box-shadow:#999999 0 1px 2px;
+  color:#666666;
+  }
+.progress_bar_white {
+  background-attachment:scroll;
+  background-color:transparent;
+  background-image:url(https://www.ajcoffeeco.com/wp-content/themes/mio-child/skins/images/skin2/checkout_bar.png);
+  background-position:0 0;
+  background-repeat:no-repeat no-repeat;
+  box-shadow:#999999 0 -1px 2px;
+  color:#666666;
+}
+.wpsc-shopping-cart.page .entry-content .progress_wrapper ul li.cart {
+  color:#cccccc;
+}
+.wpsc-shopping-cart.page .entry-content .progress_wrapper ul li.info {
+color:#cccccc;
+}
+.wpsc-shopping-cart.page .entry-content .progress_wrapper ul li.final {
+color:#cccccc;
+}
+.wpsc-shopping-cart.page .entry-content .progress_wrapper ul li.act {
+  color:#121212;
+}
+.login h1 a {
+  background-image:url(https://www.ajcoffeeco.com/wp-content/uploads/2013/01/aj-coffee-login-logo.png) !important;
+  background-position:50% 100% !important;
+  background-repeat:no-repeat no-repeat !important;
+  margin-bottom:10px;
+  box-shadow:#ABABAB 0 -2px 2px;
+}
+#login h1 a {
+background-image:url(https://www.ajcoffeeco.com/wp-content/uploads/2013/01/aj-coffee-login-logo.png) !important;
+  background-position:50% 100% !important;
+  background-repeat:no-repeat no-repeat !important;
+  margin-bottom:10px;
+  box-shadow:#ABABAB 0 -2px 2px;
+}
+.commentlist li.alt {
+  background-color:#EDEDED;
+}
+.entry-summary, .entry-utility, .commentmetadata, .comment-body {
+  color:#222222;
+}
+.single_product_display .wpsc_product_price span.oldprice {
+ color:#E55451;
+ font-size:1.2em;
+}
+
+.featured_product_display .featured-ribbon-left {
+    display: block;
+    float: right;
+    height: 76px;
+    left: 588px;
+    position: absolute;
+    top: -4px;
+    width: 100px;
+}
